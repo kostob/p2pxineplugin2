@@ -3,7 +3,6 @@
  * 
  * parts of the code from original xine input plugins:
  *  - input_http: mrl handling
- *  - input_stdin_fifo: reading from stdin stuff
  *  - input_rtp: circular buffer stuff
  */
 #include <stdio.h>
